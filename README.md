@@ -13,4 +13,4 @@ A linux program that makes other programs and scripts universal.
  ```
  
  ### Information for Developers
- <img width="25px" height="25px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg"> With a custom exceptions library that comes pre-installed, [here](https://github.com/the-antibody/universify/edit/main/src/exceptions.h) if you're worried about bloat.
+ <img width="22px" height="22px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">, with a custom exceptions library that comes pre-installed, [here](https://github.com/the-antibody/universify/edit/main/src/exceptions.h) if you're worried about bloat.
