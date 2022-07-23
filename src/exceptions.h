@@ -45,7 +45,7 @@ void to_string(char *var, exception_type type)
  * 
  * @param exception - the exception
  */
-void throw(exception *exception)
+void _throw(exception *exception)
 {
     // get exception type
     char type[100];
