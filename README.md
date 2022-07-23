@@ -11,6 +11,10 @@ git clone https://github.com/the-antibody/universify
 cd universify
 sudo make install
 ```
+
+# Usage
+`sudo universify <program/script>` <br />
+(You must be running as root)
  
 # Information for Developers
  
