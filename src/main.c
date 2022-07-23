@@ -39,7 +39,7 @@ int main(int argc, char *argv[])
         };
 
         // throw exception
-        throw(&_exception);
+        _throw(&_exception);
         exit(0);
     }
 
@@ -53,7 +53,7 @@ int main(int argc, char *argv[])
         };
 
         // throw exception
-        throw(&_exception);
+        _throw(&_exception);
         exit(0);
     }
 
@@ -72,7 +72,7 @@ int main(int argc, char *argv[])
         };
 
         // throw exception
-        throw(&_exception);
+        _throw(&_exception);
         exit(0);
     }
 
@@ -86,7 +86,7 @@ int main(int argc, char *argv[])
         };
 
         // throw exception
-        throw(&_exception);
+        _throw(&_exception);
         exit(0);
 
         // free memory
