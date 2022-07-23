@@ -1,2 +1,2 @@
 # universify
-Linux program that makes other programs and scripts universal.
+A linux program that makes other programs and scripts universal.
